@@ -1,0 +1,26 @@
+
+img{
+    height: 500px;
+    display: block;
+    align-content: center;
+    margin: auto;
+}
+.button{
+    background: green;
+    color: white;
+    display: inline-block;
+    font-size: 20px;
+    margin: 20px;
+    padding: 10px 0px;
+    text-align: center;
+    width: 200px;
+    text-decoration: none; 
+    box-shadow: 0px 3px 0px black;
+    border-radius: 50px;
+}
+.Texto{
+    font-size:xx-large;
+}
+footer{
+    text-align: center;
+}
